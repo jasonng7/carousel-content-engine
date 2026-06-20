@@ -48,7 +48,7 @@ For background on the creator behind this system:
 
 | File | Purpose |
 |---|---|
-| `execution-rules.md` | Highest-priority workflow rules for every carousel request. |
+| `project-instructions.txt` | Copy/paste this into your AI project's instruction field. |
 | `carousel-master-instructions.md` | Full carousel generation system: strategy, copy, design, HTML, captions, and export guidance. |
 | `creator-brand-profile.md` | Jason Building With AI brand identity, tone, colors, content pillars, and visual direction. |
 | `assets/html-interface-preview.png` | Screenshot preview of the generated HTML carousel interface. |
@@ -62,11 +62,11 @@ Use the three instruction files as the source of truth whenever you ask an AI as
 
 Give your AI assistant these files:
 
-1. `execution-rules.md`
+1. `project-instructions.txt`
 2. `carousel-master-instructions.md`
 3. `creator-brand-profile.md`
 
-Then ask for a carousel using a simple request like:
+Paste `project-instructions.txt` into your project instructions. Then attach or provide the two supporting files and ask for a carousel using a simple request like:
 
 ```text
 Using the uploaded carousel execution rules, master instructions, and brand profile, create an Instagram carousel about:
