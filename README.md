@@ -4,6 +4,18 @@ A reusable instruction kit for generating branded, swipeable Instagram carousel 
 
 This repo contains the operating rules, brand profile, and master carousel instructions used to create polished carousel concepts, self-contained HTML previews, captions, and export-ready PNG slides.
 
+## Preview
+
+Example carousel: **The 3 Ways I Actually Use AI**
+
+### HTML Interface
+
+![HTML carousel interface preview](assets/html-preview-3-ways-i-use-ai.png)
+
+### Exported Slides
+
+![Exported slide grid preview](assets/exported-slides-preview-3-ways-i-use-ai.png)
+
 ## Why This Is Different
 
 This is not just another carousel-making prompt or generic design template.
@@ -137,25 +149,6 @@ This gives you the same slide-grid preview style shown below.
 ### 5. Publish Or Reuse
 
 Use the exported PNG slides for Instagram, LinkedIn, X, or other social platforms. Keep the HTML file as the editable source version, and regenerate PNGs whenever you update copy or design.
-
-## Showcase
-
-Example carousel: **The 3 Ways I Actually Use AI**
-
-Example output files:
-
-- `carousel-3-ways-i-use-ai.html`
-- `exports-3-ways-i-use-ai/slide-01.png` through `slide-07.png`
-
-The previews below show the generated HTML interface and exported slide grid.
-
-### HTML Interface Preview
-
-![HTML carousel interface preview](assets/html-preview-3-ways-i-use-ai.png)
-
-### Exported Slides Preview
-
-![Exported slide grid preview](assets/exported-slides-preview-3-ways-i-use-ai.png)
 
 ## Recommended Workflow
 
