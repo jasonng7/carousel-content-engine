@@ -26,16 +26,15 @@ This is not just another carousel-making prompt or generic design template.
 
 The system is built around a simple belief: good carousels come from good thinking. A strong carousel is not only about layout, colors, or slide formatting. It needs a clear point of view, a sharp audience insight, and content that feels useful enough for people to save, share, or act on.
 
-This system was developed by a content creator with 300K+ followers online and more than 35 million views worldwide, distilling practical content knowledge into a repeatable carousel content machine.
+This system was built by a content creator with 300K+ followers online and more than 35 million views worldwide, distilling real content experience into a repeatable carousel content machine.
 
-Instead of starting from a blank prompt, it gives AI a stronger creative operating system:
+Instead of starting from a blank prompt, it gives AI a stronger creative operating system for:
 
-- hooks built around audience attention
-- slide flow shaped by creator experience
-- practical, non-generic content structure
-- branded visual consistency
-- captions designed for social distribution
-- prompts that preserve personal voice
+- **Hooks:** capturing attention from the first slide
+- **Slide flow:** keeping the audience engaged until the end
+- **Content:** shaping non-generic ideas with branded visual consistency
+- **Captions:** improving clarity, searchability, and distribution
+- **Prompts:** preserving the creator's personal voice
 
 The goal is not to mass-produce empty carousels. The goal is to help creators and builders turn lived knowledge into content that matters to the audience.
 
