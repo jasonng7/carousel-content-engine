@@ -16,6 +16,10 @@ Example carousel: **The 3 Ways I Actually Use AI**
 
 ![Exported slide grid preview](assets/exported-slides-preview.png)
 
+## How It Works
+
+![Carousel Content Engine user journey](assets/user-journey-diagram.png)
+
 ## Why This Is Different
 
 This is not just another carousel-making prompt or generic design template.
@@ -51,6 +55,7 @@ For background on the creator behind this system:
 | `creator-brand-profile.md` | Jason Building With AI brand identity, tone, colors, content pillars, and visual direction. |
 | `assets/html-interface-preview.png` | Screenshot preview of the generated HTML carousel interface. |
 | `assets/exported-slides-preview.png` | Screenshot preview of the exported slide grid. |
+| `assets/user-journey-diagram.png` | Visual overview of the tool workflow. |
 
 ## How To Use This Repo
 
