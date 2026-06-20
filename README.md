@@ -11,7 +11,7 @@ This repo contains the operating rules, brand profile, and master carousel instr
 | `carousel-execution-rules.txt` | Highest-priority workflow rules for every carousel request. |
 | `1. instagram-carousel-master-instructions.md` | Full carousel generation system: strategy, copy, design, HTML, captions, and export guidance. |
 | `brand-profile.md` | Jason Building With AI brand identity, tone, colors, content pillars, and visual direction. |
-| `carousel-3-ways-i-use-ai.html` | Example self-contained HTML carousel output. |
+| `assets/html-preview-3-ways-i-use-ai.png` | Screenshot preview of the generated HTML carousel experience. |
 | `exports-3-ways-i-use-ai/` | Example PNG slide exports generated from the HTML carousel. |
 
 ## How To Use This Repo
@@ -58,11 +58,13 @@ Ask the AI assistant to output a single self-contained `.html` file that include
 - Instagram-style preview frame
 - export-ready slide containers
 
-Save the generated file with a descriptive name, for example:
+Save the generated file locally with a descriptive name, for example:
 
 ```text
 carousel-3-ways-i-use-ai.html
 ```
+
+Generated HTML files are treated as local working files. The repo showcases screenshots and exported PNG slides instead of committing raw carousel HTML.
 
 ### 3. Export PNG Slides
 
@@ -95,7 +97,11 @@ Use the exported PNG slides for Instagram, LinkedIn, X, or other social platform
 
 Example carousel: **The 3 Ways I Actually Use AI**
 
-The source HTML is included here: [`carousel-3-ways-i-use-ai.html`](carousel-3-ways-i-use-ai.html)
+### HTML Preview
+
+This is a screenshot of the generated HTML carousel experience, including the Instagram-style preview frame and caption panel.
+
+![HTML preview of the carousel interface](assets/html-preview-3-ways-i-use-ai.png)
 
 ### Exported Slides
 
@@ -127,4 +133,4 @@ The source HTML is included here: [`carousel-3-ways-i-use-ai.html`](carousel-3-w
 
 ## Notes
 
-GitHub README files do not support embedded interactive HTML previews, so this README showcases the generated PNG slides directly. Open the `.html` file locally if you want to inspect or edit the interactive carousel source.
+GitHub README files do not support embedded interactive HTML previews, so this README showcases a screenshot of the HTML experience plus the exported PNG slides. Keep generated `.html` files local unless you intentionally want to publish them.
