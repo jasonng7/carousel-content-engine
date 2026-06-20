@@ -10,11 +10,11 @@ Example carousel: **The 3 Ways I Actually Use AI**
 
 ### HTML Interface
 
-![HTML carousel interface preview](assets/html-preview-3-ways-i-use-ai.png)
+![HTML carousel interface preview](assets/html-interface-preview.png)
 
 ### Exported Slides
 
-![Exported slide grid preview](assets/exported-slides-preview-3-ways-i-use-ai.png)
+![Exported slide grid preview](assets/exported-slides-preview.png)
 
 ## Why This Is Different
 
@@ -48,11 +48,11 @@ For background on the creator behind this system:
 
 | File | Purpose |
 |---|---|
-| `carousel-execution-rules.txt` | Highest-priority workflow rules for every carousel request. |
-| `1. instagram-carousel-master-instructions.md` | Full carousel generation system: strategy, copy, design, HTML, captions, and export guidance. |
-| `brand-profile.md` | Jason Building With AI brand identity, tone, colors, content pillars, and visual direction. |
-| `assets/html-preview-3-ways-i-use-ai.png` | Screenshot preview of the generated HTML carousel interface. |
-| `assets/exported-slides-preview-3-ways-i-use-ai.png` | Screenshot preview of the exported slide grid. |
+| `execution-rules.md` | Highest-priority workflow rules for every carousel request. |
+| `carousel-master-instructions.md` | Full carousel generation system: strategy, copy, design, HTML, captions, and export guidance. |
+| `creator-brand-profile.md` | Jason Building With AI brand identity, tone, colors, content pillars, and visual direction. |
+| `assets/html-interface-preview.png` | Screenshot preview of the generated HTML carousel interface. |
+| `assets/exported-slides-preview.png` | Screenshot preview of the exported slide grid. |
 
 ## How To Use This Repo
 
@@ -62,9 +62,9 @@ Use the three instruction files as the source of truth whenever you ask an AI as
 
 Give your AI assistant these files:
 
-1. `carousel-execution-rules.txt`
-2. `1. instagram-carousel-master-instructions.md`
-3. `brand-profile.md`
+1. `execution-rules.md`
+2. `carousel-master-instructions.md`
+3. `creator-brand-profile.md`
 
 Then ask for a carousel using a simple request like:
 

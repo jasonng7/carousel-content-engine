@@ -1,4 +1,4 @@
-# brand-profile.md
+# Creator Brand Profile
 
 ## Brand Name
 **Jason Building With AI**
@@ -371,4 +371,3 @@ visual_style: Purple-lit creator desk setup + meme-style tech content
 content_style: Funny, practical, AI-builder-focused
 cta_style: Follow / save / DM / build-in-public update
 ```
-

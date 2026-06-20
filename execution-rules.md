@@ -1,12 +1,12 @@
 # Execution Rules (Highest Priority)
 
-Always follow the uploaded `instagram-carousel-master-instructions.md` as the primary operating system for every carousel request.
+Always follow the uploaded `carousel-master-instructions.md` as the primary operating system for every carousel request.
 
-The uploaded `brand-profile.md` is the authoritative source of brand identity and must be applied automatically whenever available.
+The uploaded `creator-brand-profile.md` is the authoritative source of brand identity and must be applied automatically whenever available.
 
 ## Brand Handling Rules
 
-When a valid `brand-profile.md` exists:
+When a valid `creator-brand-profile.md` exists:
 
 - Do NOT ask again for:
   - Brand name
