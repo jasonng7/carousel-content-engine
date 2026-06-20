@@ -10,27 +10,27 @@ This is not just another carousel-making prompt or generic design template.
 
 The system is built around a simple belief: good carousels come from good thinking. A strong carousel is not only about layout, colors, or slide formatting. It needs a clear point of view, a sharp audience insight, and content that feels useful enough for people to save, share, or act on.
 
-That is why this repo combines AI generation with creator judgment. The instructions are shaped by Jason Ng Jie Xin's own experience as a content creator, strategist, and builder. Public profiles connect Jason with the Jason4Fun creator identity, a large short-form content audience, and practical content-building experience across TikTok, Instagram, LinkedIn, and AlwaysBetter.
+This system was developed by a content creator with 300K+ followers online and more than 35 million views worldwide, distilling practical content knowledge into a repeatable carousel content machine.
 
-In other words, this is a creator-led content engine. It is designed to transfer real content instincts into a repeatable AI workflow:
+Instead of starting from a blank prompt, it gives AI a stronger creative operating system:
 
-- audience-first hooks
-- creator-style narrative flow
-- practical, non-generic slide copy
+- hooks built around audience attention
+- slide flow shaped by creator experience
+- practical, non-generic content structure
 - branded visual consistency
 - captions designed for social distribution
-- reusable prompts that preserve personal voice
+- prompts that preserve personal voice
 
 The goal is not to mass-produce empty carousels. The goal is to help creators and builders turn lived knowledge into content that matters to the audience.
 
-## Credibility Signals
+## References
 
-Jason's public profiles and creator footprint provide the context behind this system:
+For background on the creator behind this system:
 
-- [AlwaysBetter portfolio](https://alwaysbetter.my/) describes Jason as a First Class Economics graduate from Universiti Malaya, a social media content creator, and part of the Corporate Strategy Team at OSK.
-- [LinkedIn profile](https://my.linkedin.com/in/jasonngjiexin) positions Jason around corporate strategy, TEDx speaking, and content creation.
-- [Direct.me profile](https://direct.me/jasonjiexin) links Jason Ng Jie Xin with Instagram, TikTok, and LinkedIn, and lists large creator audiences.
-- [TEDxTaylorsUniversity talk](https://www.youtube.com/watch?v=v8hKtbu_MQM), "Rise Of Influencers", connects Jason's work to content creation and influencer experience.
+- [AlwaysBetter portfolio](https://alwaysbetter.my/)
+- [LinkedIn profile](https://my.linkedin.com/in/jasonngjiexin)
+- [Direct.me profile](https://direct.me/jasonjiexin)
+- [TEDxTaylorsUniversity talk: Rise Of Influencers](https://www.youtube.com/watch?v=v8hKtbu_MQM)
 
 ## What's Inside
 
