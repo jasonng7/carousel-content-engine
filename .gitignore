@@ -2,3 +2,5 @@
 carousel-*.html
 exports*/
 *.png
+!assets/
+!assets/*.png
