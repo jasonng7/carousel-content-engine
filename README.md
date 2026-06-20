@@ -39,10 +39,8 @@ The goal is not to mass-produce empty carousels. The goal is to help creators an
 
 For background on the creator behind this system:
 
-- [AlwaysBetter portfolio](https://alwaysbetter.my/)
 - [LinkedIn profile](https://my.linkedin.com/in/jasonngjiexin)
-- [Direct.me profile](https://direct.me/jasonjiexin)
-- [TEDxTaylorsUniversity talk: Rise Of Influencers](https://www.youtube.com/watch?v=v8hKtbu_MQM)
+- [Instagram: @jasonng_7](https://www.instagram.com/jasonng_7/)
 
 ## What's Inside
 
