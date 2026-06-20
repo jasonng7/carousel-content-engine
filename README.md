@@ -4,8 +4,6 @@ A reusable instruction kit for generating branded, swipeable Instagram carousel 
 
 This repo contains the operating rules, brand profile, and master carousel instructions used to create polished carousel concepts, self-contained HTML previews, captions, and export-ready PNG slides.
 
-Generated HTML files and full PNG export folders are local working outputs. They are intentionally not committed to this repo. The README only includes lightweight screenshot previews so visitors can understand what the system produces.
-
 ## Why This Is Different
 
 This is not just another carousel-making prompt or generic design template.
@@ -43,8 +41,6 @@ Jason's public profiles and creator footprint provide the context behind this sy
 | `brand-profile.md` | Jason Building With AI brand identity, tone, colors, content pillars, and visual direction. |
 | `assets/html-preview-3-ways-i-use-ai.png` | Screenshot preview of the generated HTML carousel interface. |
 | `assets/exported-slides-preview-3-ways-i-use-ai.png` | Screenshot preview of the exported slide grid. |
-| `carousel-*.html` | Local generated HTML carousel files. Ignored by Git. |
-| `exports*/` | Local exported PNG slide folders. Ignored by Git. |
 
 ## How To Use This Repo
 
@@ -90,13 +86,11 @@ Ask the AI assistant to output a single self-contained `.html` file that include
 - Instagram-style preview frame
 - export-ready slide containers
 
-Save the generated file locally with a descriptive name, for example:
+Save the generated file with a descriptive name, for example:
 
 ```text
 carousel-3-ways-i-use-ai.html
 ```
-
-Generated HTML files are treated as local working files and are ignored by Git.
 
 ### 3. Export PNG Slides
 
@@ -121,8 +115,6 @@ exports-3-ways-i-use-ai/
   slide-07.png
 ```
 
-Generated PNG export folders are also treated as local working outputs and are ignored by Git. If you want a GitHub-facing preview, commit a single screenshot to `assets/` instead of uploading every exported slide.
-
 ### 4. Preview Locally
 
 Open the generated HTML file in your browser to preview the carousel interface.
@@ -140,7 +132,7 @@ exports-3-ways-i-use-ai/
   slide-07.png
 ```
 
-This gives you the same slide-grid preview style locally without uploading generated PNG files to GitHub.
+This gives you the same slide-grid preview style shown below.
 
 ### 5. Publish Or Reuse
 
@@ -150,12 +142,12 @@ Use the exported PNG slides for Instagram, LinkedIn, X, or other social platform
 
 Example carousel: **The 3 Ways I Actually Use AI**
 
-The actual generated files are kept local instead of being uploaded to the repo:
+Example output files:
 
 - `carousel-3-ways-i-use-ai.html`
 - `exports-3-ways-i-use-ai/slide-01.png` through `slide-07.png`
 
-The previews below are screenshots of those local outputs.
+The previews below show the generated HTML interface and exported slide grid.
 
 ### HTML Interface Preview
 
@@ -174,7 +166,3 @@ The previews below are screenshots of those local outputs.
 5. Review the HTML in a browser.
 6. Export slides as PNGs.
 7. Use the generated captions and hashtags when posting.
-
-## Notes
-
-GitHub README files do not support embedded local-only HTML previews. This repo keeps generated `.html` files and full export folders local by default, while allowing selected screenshot previews in `assets/`.
