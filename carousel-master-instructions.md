@@ -163,13 +163,13 @@ Default to **7 slides**, alternating light/dark backgrounds for visual rhythm. U
 
 | # | Type | Background | Purpose |
 |---|---|---|---|
-| 1 | Hero | LIGHT_BG | Hook — bold claim, brand handle, no description-y copy |
+| 1 | Hero | LIGHT_BG | Hook — bold claim, no description-y copy |
 | 2 | Problem | DARK_BG | What's broken / outdated — use strikethrough pills |
 | 3 | Solution | Brand gradient | The answer — quote/principle box |
 | 4 | Features/Pillars | LIGHT_BG | What you get — icon + label + description rows |
 | 5 | Proof/Details | DARK_BG | Stats, differentiators, big numbers |
 | 6 | How-to | LIGHT_BG | Numbered steps, workflow |
-| 7 | CTA | Brand gradient | Logo/handle, tagline, CTA button — **no arrow, 100% progress bar** |
+| 7 | CTA | Brand gradient | Optional logo/handle, tagline, CTA button — **no arrow, 100% progress bar** |
 
 **Rules:**
 - Slide 1 must stop the scroll — lead with the value proposition, not a description.
@@ -196,12 +196,18 @@ Write carousel copy that is short, punchy, easy to skim, mobile-first, and save-
 
 Every slide must include:
 
-- Brand/IG header or small brand mark
 - Clear main content area with strong visual hierarchy
 - Consistent margins — standard content padding `0 36px`
 - Slide number / progress indicator
 - Optional footer or CTA
 - Enough negative space
+
+**Branding inside export slides:**
+- Do not place a top brand header inside the slide canvas.
+- Do not add a top-left logo/avatar plus brand name or a top-right handle on every slide.
+- Do not let brand text compete with section labels, hooks, or headings.
+- Keep brand identity in the color system, typography, caption, Instagram preview chrome, and final CTA slide.
+- If a brand mark is needed before the final slide, use a tiny footer watermark only when it does not crowd the content.
 
 **Progress bar (bottom, every slide):**
 - Position: absolute bottom, `padding: 14–16px 28px 18–20px`
