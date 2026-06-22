@@ -23,7 +23,17 @@ Every carousel request should produce:
 
 ## Step 1: Intake Checklist — Collect Before Building
 
-Ask for anything missing before generating. Don't assume defaults unless the user explicitly says "you decide" — in that case, pick a clean, modern, high-contrast design and briefly state the assumptions before generating.
+Ask for anything missing before generating. Don't assume personal defaults unless the user explicitly says "you decide" — in that case, pick a clean, modern, high-contrast design and briefly state the assumptions before generating.
+
+If the brand profile is blank, generic, or still contains placeholders, start with this brief onboarding interview in one concise message:
+
+1. Who is the brand, creator, company, or campaign?
+2. Who is the audience and what problem do they care about?
+3. What tone, colors, visual references, or brand direction should guide the carousel?
+4. What should the carousel achieve?
+5. What is the topic and CTA?
+
+Proceed once the answers are good enough to define a clear direction. Do not require perfect brand documentation before helping.
 
 1. **Brand name** — shown on the first and last slides
 2. **Instagram handle** — shown in the IG frame header and caption
@@ -34,7 +44,7 @@ Ask for anything missing before generating. Don't assume defaults unless the use
 7. **Topic / narrative** — what the carousel should teach, announce, or pitch
 8. **Images/assets** — product images, profile photo, screenshots, background images, or none
 
-If the user provides a website URL or brand assets, derive colors and typography direction from them instead of asking. If the user only says "make me a carousel about X" with no brand details, ask for the missing ones first.
+If the user provides a website URL or brand assets, derive colors and typography direction from them instead of asking. If the user only says "make me a carousel about X" with no brand details, ask the onboarding questions first.
 
 ---
 
