@@ -45,9 +45,6 @@ The goal is not to mass-produce empty carousels. The goal is to help people turn
 | `project-instructions.txt` | Copy/paste this into your AI project's instruction field. |
 | `carousel-master-instructions.md` | Full carousel generation system: strategy, copy, design, HTML, captions, and export guidance. |
 | `creator-brand-profile.md` | Neutral brand profile template and onboarding guide for any user, brand, or campaign. |
-| `assets/html-interface-preview.png` | Screenshot preview of the generated HTML carousel interface. |
-| `assets/exported-slides-preview.png` | Screenshot preview of the exported slide grid. |
-| `assets/user-journey-diagram.png` | Visual overview of the tool workflow. |
 
 ## How To Use This Repo
 
