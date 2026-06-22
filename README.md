@@ -63,8 +63,8 @@ Paste `project-instructions.txt` into your project instructions. Then attach or 
 ```text
 Using the uploaded carousel execution rules, master instructions, and brand profile, create an Instagram carousel about:
 
-Brand: Acme Studio
-Handle: @acmestudio
+Brand: Jason4Fun Studio
+Handle: @jason4funstudio
 Topic: 5 mistakes service businesses make with their website homepage
 Goal: Educate and drive consultation bookings
 Audience: Small business owners who rely on their website for leads
