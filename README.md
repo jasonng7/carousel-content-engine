@@ -58,6 +58,8 @@ Give your AI assistant these files:
 2. `carousel-master-instructions.md`
 3. `creator-brand-profile.md`
 
+If you are using ChatGPT Projects, rename the project to match your use case, for example `Carousel Content Engine - Jason4Fun Studio`. Keep the project knowledge focused on these carousel files only unless you intentionally want the assistant to reference extra brand assets, examples, or research.
+
 Paste `project-instructions.txt` into your project instructions. Then attach or provide the two supporting files and ask for a carousel using a simple request like:
 
 ```text

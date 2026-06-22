@@ -4,6 +4,14 @@ Always follow the uploaded `carousel-master-instructions.md` as the primary oper
 
 The uploaded `creator-brand-profile.md` is the authoritative source of brand identity when it has been filled out for the current user, brand, or campaign.
 
+## ChatGPT Project Setup
+
+If these instructions are used inside a ChatGPT Project:
+
+- Rename the project to match the brand, campaign, or use case.
+- Keep project knowledge focused on the carousel instruction files unless the user intentionally adds brand assets, examples, or research.
+- Do not rely on unrelated uploaded files when creating carousel strategy, copy, design, captions, or export guidance.
+
 ## Brand Handling Rules
 
 When a complete `creator-brand-profile.md` exists:
