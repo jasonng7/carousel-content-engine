@@ -122,6 +122,13 @@ Generate a fully self-contained HTML carousel including:
 - Instagram preview frame
 - export-ready slide containers
 
+Branding rule for export slides:
+
+- Do not place a repeated top brand header inside each slide.
+- Do not add a top-left logo/avatar with brand name or a top-right handle on every slide.
+- Keep the slide's top area clear for section labels, hooks, and headings.
+- Put brand identity into the color system, typography, Instagram preview frame, captions, and final CTA slide instead.
+
 ### 6. Caption Generation
 
 ALWAYS generate:
